@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "30Xy2JOHGVdSvWOSeEqn7WGHjJuuo9YaFSNcKXsaIEZSYsq1igF4mOCACEzyoy/xMIoHhYnHdD3v59m8MrW0sg==",
+  "dgSpecHash": "jlWygsXcz1mp8s0KgyNKbzPz1LnJGMqG7FaxR2ZFxSJHy4BQcwi1xIV6UF7X0J64Ne3TmuOV6mmo2I+r/fyMug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pc\\Desktop\\Escritorio\\AgendaTel\\mapeosAPI.csproj",
+  "projectFilePath": "C:\\Users\\Pc\\Desktop\\Escritorio\\AgendaBackend\\mapeosAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pc\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Pc\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.8\\microsoft.aspnetcore.authentication.jwtbearer.5.0.8.nupkg.sha512",
