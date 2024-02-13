@@ -7986,31 +7986,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\brand\\.nuget\\packages\\": {},
+    "C:\\Users\\Pc\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\brand\\OneDrive\\Documentos\\GitHub\\AgendaBackend\\mapeosAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Pc\\desktop\\escritorio\\agendabackend\\mapeosAPI.csproj",
       "projectName": "mapeosAPI",
-      "projectPath": "C:\\Users\\brand\\OneDrive\\Documentos\\GitHub\\AgendaBackend\\mapeosAPI.csproj",
-      "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brand\\OneDrive\\Documentos\\GitHub\\AgendaBackend\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\Pc\\Desktop\\Escritorio\\AgendaBackend\\mapeosAPI.csproj",
-      "projectName": "mapeosAPI",
-      "projectPath": "C:\\Users\\Pc\\Desktop\\Escritorio\\AgendaBackend\\mapeosAPI.csproj",
+      "projectPath": "C:\\Users\\Pc\\desktop\\escritorio\\agendabackend\\mapeosAPI.csproj",
       "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pc\\Desktop\\Escritorio\\AgendaBackend\\obj\\",
->>>>>>> fe3071103c2671cef41a133be3f9cc74de1eb008
+      "outputPath": "C:\\Users\\Pc\\desktop\\escritorio\\agendabackend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\brand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8019,6 +8011,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8091,7 +8084,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
