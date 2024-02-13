@@ -81,7 +81,7 @@ namespace marcatel_api.Services
                     {
                         lista.Add(new GetContactoModel
                         {
-                            // Id = int.Parse(row["Id"].ToString()),
+                            Id = int.Parse(row["Id"].ToString()),
                             Nombre = row["Nombre"].ToString(),
                             ApPaterno = row["apPaterno"].ToString(),
                             ApMaterno = row["apMaterno"].ToString(),
