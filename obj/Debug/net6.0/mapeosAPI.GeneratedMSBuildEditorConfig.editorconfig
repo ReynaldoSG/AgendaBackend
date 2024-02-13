@@ -9,9 +9,17 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = marcatel_api
 build_property.RootNamespace = marcatel_api
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\brand\OneDrive\Documentos\GitHub\AgendaBackend\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\brand\OneDrive\Documentos\GitHub\AgendaBackend
+=======
+build_property.ProjectDir = C:\Users\Pc\Desktop\Escritorio\AgendaBackend\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Pc\Desktop\Escritorio\AgendaBackend
+>>>>>>> fe3071103c2671cef41a133be3f9cc74de1eb008
 build_property._RazorSourceGeneratorDebug = 

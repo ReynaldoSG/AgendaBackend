@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\brand\\OneDrive\\Documentos\\GitHub\\AgendaBackend\\mapeosAPI.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\brand\\OneDrive\\Documentos\\GitHub\\AgendaBackend\\mapeosAPI.csproj",
         "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\brand\\OneDrive\\Documentos\\GitHub\\AgendaBackend\\obj\\",
+=======
+    "C:\\Users\\Pc\\Desktop\\Escritorio\\AgendaBackend\\mapeosAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pc\\Desktop\\Escritorio\\AgendaBackend\\mapeosAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\Escritorio\\AgendaBackend\\mapeosAPI.csproj",
+        "projectName": "mapeosAPI",
+        "projectPath": "C:\\Users\\Pc\\Desktop\\Escritorio\\AgendaBackend\\mapeosAPI.csproj",
+        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pc\\Desktop\\Escritorio\\AgendaBackend\\obj\\",
+>>>>>>> fe3071103c2671cef41a133be3f9cc74de1eb008
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
